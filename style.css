@@ -1,0 +1,47 @@
+style.css
+
+
+body {
+  margin: 0px;
+  font-family: Arial, sans-serif;
+	font-size: 18px;
+  font-weight: lighter;
+    color: rgb(255, 255, 255);     /* Text color */
+	background-color: rgb(0, 0, 0);  /* Background color */
+	font-weight: lighter;
+}
+
+
+h2{
+	color: rgb(188, 218, 91);
+	margin: 50px;
+}
+
+h1 {
+	text-align:center;
+	color: rgb(188, 218, 91)
+}
+
+
+#div3 {
+	background-color: rgb(218, 248, 121);
+	margin-left: 80px;
+	margin-right: 80px
+}
+
+#div2 {
+	display: flex;
+	justify-content: space-around;
+}
+
+#div4 {
+	display: flex;
+	justify-content: space-around;
+}
+
+#divend {
+	display: flex-start;
+	justify-content: space-around;
+	font-size: 40px;
+}
+
